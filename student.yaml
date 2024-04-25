@@ -1,0 +1,35 @@
+student:
+  family_name: "Kalathiparambil"
+  given_name: "Anil"
+  preferred_name: "Sreehari"
+
+enrollments:
+  - unit_code: "SIT727"
+    unit_name: "Cloud Automation Technologies"
+    mode_of_offer: "Burwood"
+    timetable:
+      - activity_type: "Class"
+        location: "online"
+        channel: "Teams"
+      - activity_type: "Workshop"
+        location: "campus"
+        room_channel: "EA2.03"
+
+  - unit_code: "SIT737"
+    unit_name: "Cloud Automation Technologies"
+    mode_of_offer: Burwood
+    timetable:
+      - activity_type: "Class"
+        location: "online"
+        channel: "Teams"
+      - activity_type: "Workshop"
+        location: "campus"
+        room_channel: "LB2.207"
+
+  - unit_code: "SIT723"
+    unit_name: "Research Techniques and Applications"
+    mode_of_offer: Burwood
+    timetable:
+      - activity_type: "Class"
+        location: "online"
+        channel: "Teams"
